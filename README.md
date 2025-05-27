@@ -11,7 +11,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Delphi](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Delphi](https://img.shields.io/badge/-Delphi-EA1F25?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
@@ -20,8 +20,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![aufieri](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
+![aufieri GitHub Stats](https://github-readme-stats.vercel.app/api?username=aufieri&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aufieri&layout=compact&theme=tokyonight)
+
 
 ---
 
