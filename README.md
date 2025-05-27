@@ -12,8 +12,8 @@
 
 ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Delphi](https://img.shields.io/badge/-Delphi-EA1F25?style=flat-square&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 
 ---
