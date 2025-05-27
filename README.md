@@ -29,8 +29,9 @@
 
 ## 🧠 Projetos em destaque
 
-- 🔧 [Sistema de Gerenciamento de Jogos](https://github.com/aufieri/ifsp-arqdweb) — Aplicação Web em java em questão de gerenciamento de jogos. 
+- 🎮 [Sistema de Gerenciamento de Jogos](https://github.com/aufieri/ifsp-arqdweb) — Aplicação Web em java em questão de gerenciamento de jogos. 
 - 🎮 [X-Men](https://github.com/aufieri/X-Men) — Escolha de Personagens do X-Men.
+-  ✔ [To Do](https://github.com/aufieri/ApiToDo) — Api mantida diretamente em uma aplicação de tarefas a fazeres.
 
 ---
 
