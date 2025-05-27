@@ -4,7 +4,8 @@
 💼 Experiência com desenvolvimento Full Stack e suporte técnico.
 💻 Atualmente desenvolvendo projetos em **.NET**, **Delphi**, **Java** e **SQL Server**
 🚀 Motivado por tecnologia, inovação e soluções eficientes  
-📫 Contatos: [Email:](aufieriz@gmail.com) | [LinkedIn:](https://www.linkedin.com/in/lucca-aufieri-1864a626b/))
+📫 Contatos: 
+📧 [aufieriz@gmail.com](mailto:aufieriz@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/lucca-aufieri-1864a626b/)
 
 ---
 
