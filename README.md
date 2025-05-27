@@ -11,9 +11,10 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Delphi](https://img.shields.io/badge/-Delphi-EA1F25?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 
