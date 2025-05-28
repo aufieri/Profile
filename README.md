@@ -22,7 +22,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![aufieri GitHub Stats](https://github-readme-stats.vercel.app/api?username=aufieri&show_icons=true&theme=tokyonight)
+![aufieri GitHub Stats](https://github-readme-stats.vercel.app/api?username=aufieri&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aufieri&layout=compact&theme=tokyonight)
 
 
