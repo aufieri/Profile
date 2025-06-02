@@ -3,7 +3,7 @@
 🎓 Estudante de Sistemas para Internet 
 💼 Experiência com desenvolvimento Full Stack e suporte técnico.
 💻 Atualmente desenvolvendo projetos em **.NET**, **Delphi**, **Java** e **SQL Server**
-🚀 Motivado por tecnologia, inovação e soluções eficientes  
+🚀 Motivado por tecnologia, inovação e soluções eficientes.  
 📫 Contatos: 
 📧 [aufieriz@gmail.com](mailto:aufieriz@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/lucca-aufieri-1864a626b/)
 
@@ -31,8 +31,8 @@
 ## 🧠 Projetos em destaque
 
 - 🎮 [Sistema de Gerenciamento de Jogos](https://github.com/aufieri/ifsp-arqdweb) — Aplicação Web em java em questão de gerenciamento de jogos. 
-- 🎮 [X-Men](https://github.com/aufieri/X-Men) — Escolha de Personagens do X-Men.
--  ✔ [To Do](https://github.com/aufieri/ApiToDo) — Api mantida diretamente em uma aplicação de tarefas a fazeres.
+- 🦸‍♂️ [X-Men](https://github.com/aufieri/X-Men) — Escolha de Personagens do X-Men.
+- ✔  [To Do](https://github.com/aufieri/ApiToDo) — Api mantida diretamente em uma aplicação de tarefas a fazeres.
 
 ---
 
